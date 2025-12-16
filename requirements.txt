@@ -1,0 +1,17 @@
+# Minimal requirements for Industrial-AI-Robustness-Card
+# Compatible with Python 3.11+ and uv
+
+# Core data processing
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+
+# MLflow tracking
+mlflow>=2.10
+
+# Visualization
+plotly>=5.9
+
+# Interactive dashboard
+dash>=2.14
+dash-bootstrap-components>=1.5

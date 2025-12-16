@@ -1,0 +1,15 @@
+artifact_uri: file:./logs/564684664407632204/08432de6d0cf4eeeb0dbb0a3a1efdf3e/artifacts
+end_time: 1764868336561
+entry_point_name: ''
+experiment_id: '564684664407632204'
+lifecycle_stage: active
+run_id: 08432de6d0cf4eeeb0dbb0a3a1efdf3e
+run_name: LSTM_dh512
+run_uuid: 08432de6d0cf4eeeb0dbb0a3a1efdf3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764866004190
+status: 3
+tags: []
+user_id: alex

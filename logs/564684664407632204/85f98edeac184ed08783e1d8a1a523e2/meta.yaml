@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/alex/Code/robust-AI-verification/runs/564684664407632204/85f98edeac184ed08783e1d8a1a523e2/artifacts
+deleted_time: 1765804247512
+end_time: null
+entry_point_name: ''
+experiment_id: '564684664407632204'
+lifecycle_stage: deleted
+run_id: 85f98edeac184ed08783e1d8a1a523e2
+run_name: Mamba_dm32_dc4_nmb2_ds32_l0-001
+run_uuid: 85f98edeac184ed08783e1d8a1a523e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764865870251
+status: 1
+tags: []
+user_id: alex
